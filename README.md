@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Fx2500/Fx2500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://user-images.githubusercontent.com/61148862/141699154-dc33b031-892b-4d1a-b18b-48b06441b70f.jpg)
 
-Here are some ideas to get you started:
+Olá, Eu sou o Douglas!👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor Front-End em busca da minha primeira oportunidade nessa nova carreira. 
+
+
+:computer: Atualmente estudando React
+
+:punch: Buscando colaborar em projetos Front-End
+
+:smile: Posso auxiliar com React, Javascript, HTML, CSS
+
+
+:fire: Cozinheiro no fim de semana.
